@@ -3,8 +3,8 @@
 Aplikasi pengelolaan koleksi buku berbasis **PHP Native + MySQL (mysqli)** dengan autentikasi session, cookie "Remember Me", CRUD, dan upload sampul buku. UI memakai Bootstrap 5.
 
 - **Mata kuliah:** Pemrograman Web
-- **Nama / NIM:** _isi di sini_
-- **Video demo:** _tempel link YouTube di sini_
+- **Nama / NIM:** khorin berka aditya
+- **Video demo:** 
 
 ## Fitur
 - Login (POST), session, cookie Remember Me (menyimpan username), logout yang menghapus session & cookie
